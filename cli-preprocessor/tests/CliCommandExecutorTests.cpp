@@ -1,8 +1,6 @@
 #include <vector>
 #include <array>
 
-#include <functional>
-
 #include <gtest/gtest.h>
 
 import cli_executor.cli_preprocessor;
