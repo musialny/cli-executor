@@ -1,0 +1,5 @@
+export module cli_executor.cli_preprocessor;
+
+export import cli_executor.cli_preprocessor.CliCommandExecutor;
+export import cli_executor.cli_preprocessor.CliActionsContainer;
+export import cli_executor.cli_preprocessor.CliCommandParameters;
