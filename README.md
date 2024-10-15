@@ -1,2 +1,1 @@
-# CLI Executor liblary for C++
-
+# CLI Executor library for C++
